@@ -1,4 +1,4 @@
-# Amazon-Sales-Dashboard
+# Amazon-Sales-Dashboard - Power BI Project
 This project is an interactive Power BI dashboard built to analyze and visualize Amazon's category-wise fashion sales data. It highlights trends across cities, states, product categories, order statuses, and time periods — all derived from raw sales and product datasets.
 
 📁 Project Files
